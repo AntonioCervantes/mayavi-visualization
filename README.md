@@ -10,6 +10,8 @@ Create Python-based VTK 3D visualizations with the Mayavi library
 
 <img width="1113" alt="Manning Creek Plotly scatterplot" src="https://user-images.githubusercontent.com/87390731/181864437-a478b7ba-51e6-469f-877e-36ca2af153c6.PNG">
 
+<img width="1210" alt="FF2 Plotly Particles" src="https://user-images.githubusercontent.com/87390731/181872048-5eb1ab44-2f2c-46bf-aa88-bd047f9e2bfd.PNG">
+
 
 ### Mayavi
 
